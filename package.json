@@ -1,0 +1,22 @@
+{
+  "name": "playwright_orangehrm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gin160400/Playwright_OrangeHRM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gin160400/Playwright_OrangeHRM/issues"
+  },
+  "homepage": "https://github.com/Gin160400/Playwright_OrangeHRM#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.0"
+  }
+}
